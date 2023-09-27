@@ -3,7 +3,6 @@ import "./MovieCard.css";
 import Star from "../../assets/star.png";
 
 const MovieCard = ({ movie }) => {
-  console.info(movie);
   return (
     <a
       href={`https://www.themoviedb.org/movie/${movie.id}`}
