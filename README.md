@@ -7,7 +7,7 @@ Small demo application that provides informations about movies using the TMDB pu
 
 ## Features
 
-- Ability to switch between dark and light mode
+- Ability to switch between dark and light mode, choice is saved to local storage
 - Filtering and sorting by rating and release date, ascending or descending
 - Navigation between Popular,Top Rated and Upcoming movies
 - Details about the movie when hovering 
