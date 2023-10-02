@@ -8,7 +8,7 @@ import DarkMode from "../DarkMode/DarkMode";
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <h1>Movie Maniac</h1>
+      <h1>Movie DB</h1>
       <div className="navbar_links">
         <DarkMode />
         <a href="#popular">
