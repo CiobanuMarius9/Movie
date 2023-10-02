@@ -9,12 +9,13 @@ Small demo application that provides information about movies using the TMDB pub
 
 - Ability to switch between dark and light mode, choice is saved to local storage
 - Filtering and sorting by rating and release date, ascending or descending
-- Navigation between Popular,Top Rated and Upcoming movies
+- Routing for Popular,Top Rated and Upcoming movies
 - Details about the movie when hovering 
 - Clicking on the movie card redirects to TMDB for more details about the movie
 
 ### Technologies and libraries
  - React & Vite
+ - React Routed DOM
  - CSS
  - Lodash 
 
